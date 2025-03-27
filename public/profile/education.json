@@ -1,0 +1,19 @@
+{
+    "education":[
+        {
+            "title": "Sept 2020 - April 2025",
+            "cardTitle": "Bachelor's in Computer Science",
+            "cardSubtitle":"University of Waterloo, Waterloo",
+            "cardDetailedText": "",
+            "icon" : {
+                "src": "images/education/lorem-ipsum.png"
+            }
+        },
+        {
+            "title": "Sept 2016 - June 2020",
+            "cardTitle": "High School",
+            "cardSubtitle":"Preston High School, Cambridge",
+            "cardDetailedText": "Gr.12 Average - 97%"
+        }
+    ]
+}
