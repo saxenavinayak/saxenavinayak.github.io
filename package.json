@@ -41,6 +41,8 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
@@ -51,7 +53,8 @@
     "eslint-plugin-jsx-a11y": "^6.4.1",
     "eslint-plugin-react": "^7.26.1",
     "eslint-plugin-react-hooks": "^4.2.0",
-    "react-error-overlay": "6.0.9"
+    "react-error-overlay": "6.0.9",
+    "gh-pages": "^6.3.0"
   },
   "resolutions": {
     "react-error-overlay": "6.0.9"
