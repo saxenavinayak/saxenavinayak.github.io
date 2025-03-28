@@ -1,0 +1,52 @@
+{
+    "experiences": [
+        {
+            "title": "Software Engineer Intern",
+            "subtitle": "Spire Global",
+            "workType": "Internship",
+            "workDescription": [
+                "Built fully E2E product, using real-time, high-volume data to predict flight ETAs",
+                "Worked on adding **def** to **bcd**. Improved speed by 50%."
+            ],
+            "dateText": "06/20XX – Present"
+        },
+        {
+            "title": "Automation Engineer Intern",
+            "subtitle": "Carta",
+            "workType": "Internship",
+            "workDescription": [
+                "Worked on abc."
+            ],
+            "dateText": "01/20XX – 05/20XX"
+        },
+        {
+            "title": "Automation Engineer Intern",
+            "subtitle": "Carta",
+            "workType": "Internship",
+            "workDescription": [
+                "Worked on abc."
+            ],
+            "dateText": "01/20XX – 05/20XX"
+        },
+        {
+            "title": "Automation Developer Intern",
+            "subtitle": "Fleet Complete",
+            "workType": "Internship",
+            "workDescription": [
+                "Developed the official apps for the startup for both Android and iOS using hybrid framework.",
+                "Done bcd work."
+            ],
+            "dateText": "09/20XX – 01/20YY"
+        },
+        {
+            "title": "Automation Developer Intern",
+            "subtitle": "Fleet Complete",
+            "workType": "Internship",
+            "workDescription": [
+                "Developed the official apps for the startup for both Android and iOS using hybrid framework.",
+                "Done bcd work."
+            ],
+            "dateText": "09/20XX – 01/20YY"
+        }
+    ]
+}
