@@ -1,51 +1,69 @@
 {
-    "intro": "I love to learn new things and experiment with new technologies.\nThese are some of the major languages, technologies, tools and platforms I have worked with:",
+    "intro" : "My tech stack of tools and languages I am familiar with and have worked with through projects and internships:",
     "skills": [{
      
-            "title": "Languages & Databases",
+            "title": "Languages",
             "items" : [
-     
-                {
-                    "icon": "images/skills/java.png",
-                    "title": "Java"
-                },
-                {
-                    "icon": "images/skills/php.png",
-                    "title": "PHP"
-                },
-                {
-                    "icon": "images/skills/js.png",
-                    "title": "JavaScript"
-                },
                 {
                     "icon": "images/skills/python.png",
                     "title": "Python"
                 },
                 {
-                    "icon": "images/skills/mysql.png",
-                    "title": "MySQL"
+                    "icon": "images/skills/scala.png",
+                    "title": "Scala"
+                },
+                {
+                    "icon": "images/skills/C_Plus_Plus.png",
+                    "title": "C++"
+                },
+                {
+                    "icon": "images/skills/java.png",
+                    "title": "Java"
+                },
+                {
+                    "icon": "images/skills/kotlin.jpeg",
+                    "title": "Kotlin"
+                },
+                {
+                    "icon": "images/skills/js.png",
+                    "title": "JavaScript"
                 }
         ]},
         {
-            "title": "Frameworks & Technologies",
-            "items" : [
-                {
-                    "icon": "images/skills/android_new.png",
-                    "title": "Android"
-                },
-                {
-                    "icon": "images/skills/react.png",
-                    "title": "React"
-                },
-                {
-                    "icon": "images/skills/nodejs.png",
-                    "title": "Nodejs"
-                }
-            ]
-        },
-        {
             "title" : "Tools & Platforms",
             "items": [
+                {
+                    "icon": "images/skills/jenkins.png",
+                    "title": "Jenkins"
+                },
+                {
+                    "icon": "images/skills/kubernetes.png",
+                    "title": "Kubernetes"
+                },
+                {
+                    "icon": "images/skills/circleci.png",
+                    "title": "CircleCI"
+                },
+                {
+                    "icon": "images/skills/terraform.png",
+                    "title": "Terraform"
+                },
+                {
+                    "icon": "images/skills/aws.png",
+                    "title": "AWS"
+                },
+                {
+                    "icon": "images/skills/gcp.png",
+                    "title": "GCP"
+                },
+                {
+                    "icon": "images/skills/kafka.svg",
+                    "title": "Kafka"
+                },
+                {
+                    "icon": "images/skills/dbx.png",
+                    "title": "Databricks"
+                },
                 {
                     "icon": "images/skills/android-studio.png",
                     "title": "Android Studio"
