@@ -6,47 +6,56 @@
             "workType": "Internship",
             "workDescription": [
                 "Built fully E2E product, using real-time, high-volume data to predict flight ETAs",
-                "Worked on adding **def** to **bcd**. Improved speed by 50%."
+                "Created connectivity between 2 services (Databricks and Kafka) by creating an AWS TGW (transit gateway) and routing table in corresponding VPCs to enable data access across B.U.’s",
+                "Designed and implemented a caching service in Scala to integrate an AI inference model for real-time ETA predictions, supporting a processing throughput of 160k records per minute",
+                "Built a streaming pipeline to ingest live data from Kafka into Databricks, using Avro for decoding and Spark to stream into Delta Lake, reducing latency from 24 hours to a few seconds, and enabled real-time ETAs",
+                "Automated infrastructure provisioning with Terraform to deploy and manage a Databricks workspace, improved management efficiency for 12 users, handling 5+ workloads",
+                "Built an ETL pipeline to extract over 5.5TB of model training Data from GCP BigQuery, apply optimizations, and load to Delta Lake for ML applications"
             ],
-            "dateText": "06/20XX – Present"
+            "dateText": "Sept 2024 - Dec 2024"
         },
         {
             "title": "Automation Engineer Intern",
             "subtitle": "Carta",
             "workType": "Internship",
             "workDescription": [
-                "Worked on abc."
+                "Containerized test application using Docker to be deployed in personal teams' Kubernetes namespaces, to integrate testing with each unique product; used by 2 external B.U.'s",
+                "Optimized CircleCI workflow by adding a checkpoint mechanism in docker image generation, reduced development pipeline from 5mins to a couple of seconds, accelerating development cycles",
+                "Integrated linters with Github actions (Flake8, Black, MyPy) to achieve 100% style and type checks to keep consistency across codebases"
             ],
-            "dateText": "01/20XX – 05/20XX"
+            "dateText": "May 2024 – Aug 2024"
         },
         {
             "title": "Automation Engineer Intern",
             "subtitle": "Carta",
             "workType": "Internship",
             "workDescription": [
-                "Worked on abc."
+                "Deployed and maintained infrastructure for Automation Framework (using Jenkins), used by 10+ teams, ensuring reliability, better visibility, and efficiency of testing process.",
+                "Contributed to Python testing application in Pytest framework to achieve 100% test coverage for API service",
+                "Developed shell script as entry point for a Docker container, automating setup and service initialization."
             ],
-            "dateText": "01/20XX – 05/20XX"
+            "dateText": "Sept 2023 – Dec 2023"
         },
         {
             "title": "Automation Developer Intern",
             "subtitle": "Fleet Complete",
             "workType": "Internship",
             "workDescription": [
-                "Developed the official apps for the startup for both Android and iOS using hybrid framework.",
-                "Done bcd work."
+                "Implemented page object design pattern to automate UI unit tests using Cypress framework, reducing manual test execution by 30%",
+                "Continuously logged bugs discovered in automated tests and pipeline to improve product quality, and increase efficiency of development process"
             ],
-            "dateText": "09/20XX – 01/20YY"
+            "dateText": "May 2022 – Aug 2022"
         },
         {
-            "title": "Automation Developer Intern",
-            "subtitle": "Fleet Complete",
+            "title": "IT Team Associate",
+            "subtitle": "University of Waterloo",
             "workType": "Internship",
             "workDescription": [
-                "Developed the official apps for the startup for both Android and iOS using hybrid framework.",
-                "Done bcd work."
+                "Centralized TV display system using Python to display digital signage to students and faculty.",
+                "Created a laptop booking system using JavaScript in Google Apps environment that streamlined the booking process for 90+ employees.",
+                "Coordinated with tech team to ensure ongoing function of 200+ computers, providing technical support to colleagues and troubleshooting issues collaboratively."
             ],
-            "dateText": "09/20XX – 01/20YY"
+            "dateText": "Sept 2021 – Dec 2021"
         }
     ]
 }
