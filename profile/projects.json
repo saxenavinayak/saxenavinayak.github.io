@@ -10,7 +10,7 @@
                     "href": "https://github.com/saxenavinayak/connect-four"
                 },
                 {
-                    "text": "Live",
+                    "text": "Demo",
                     "href": "https://www.youtube.com/watch?v=duh_zgxjEzE"
                 }
             ],
@@ -19,14 +19,30 @@
         {
             "image": "images/projects/dataflow.png",
             "title": "UDP Data Transfer",
-            "bodyText": "Program to simulate reliable data transfer over a UDP channel. Ensures data is reconstructed, even with packet loss, out of order packets, and timeouts.",
+            "bodyText": "Program to simulate reliable data transfer over a UDP channel (in python). Ensures data is reconstructed, even with packet loss, out of order packets, and timeouts.",
             "links": [
                 {
                     "text": "GitHub",
                     "href": "https://github.com/saxenavinayak/UDP_Simulator"
                 }
             ],
-            "tags": ["Networking", "Socket API", "UDP", "TCP", "Python"]
+            "tags": ["Networking", "Socket API", "UDP", "TCP"]
+        },
+        {
+            "image": "images/projects/cardgameCli.png",
+            "title": "OOP Card Game",
+            "bodyText": "Simple card game built in C++, leveraged smart pointers and object OOP principles (encapsulation, inheritance, abstraction, and polymorphism)",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/saxenavinayak/CardGame"
+                },
+                {
+                    "text": "Demo",
+                    "href": "https://github.com/saxenavinayak/CardGame?tab=readme-ov-file#demo"
+                }
+            ]
+
         }
         
     ]
